@@ -72,7 +72,6 @@
         <li>Multiple video sizes</li>
         <li>Multi-lingual support (English, Spanish, French, Hindi)</li>
     </ul>
-
     <p>Additional one-time offers (OTOs) enhance functionality:</p>
     <table>
         <tr>
