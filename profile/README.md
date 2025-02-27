@@ -28,7 +28,6 @@
         <li><strong>Team Collaboration</strong>: Real-time collaboration features enable team members to work together, which is crucial for larger projects or agency workflows. This includes performance tracking to analyze video views and engagement, helping optimize content strategy.</li>
         <li><strong>Additional Tools</strong>: Features like AI-recommended movie topics, AI-written scripts, pre-made templates, and unlimited edits enhance user experience, providing a holistic video creation ecosystem.</li>
     </ul>
-
     <p>The following table summarizes the key features:</p>
     <table>
         <tr>
