@@ -2,7 +2,6 @@
 <html lang="en">
 <body>
     <h1>MovieReelAI Review</h1>
-
     <h2>Key Points</h2>
     <ul>
         <li>It seems likely that MovieReelAI is a generative AI tool for creating videos from text, designed for ease of use without advanced editing skills.</li>
